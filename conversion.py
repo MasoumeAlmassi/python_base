@@ -19,10 +19,10 @@ string1 = "100"
 # Checking data types before changing #
 #######################################
 
-print(type(num1))
-print(type(num2))
-print(type(num3))
-print(type(string1))
+# print(type(num1))
+# print(type(num2))
+# print(type(num3))
+# print(type(string1))
 
 #####################
 # Convert variables #
@@ -46,7 +46,7 @@ print(string1)
 # Testing updated data types #
 ##############################
 
-print(type(num1))
-print(type(num2))
-print(type(num3))
-print(type(string1))
+# print(type(num1))
+# print(type(num2))
+# print(type(num3))
+# print(type(string1))
