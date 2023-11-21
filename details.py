@@ -17,5 +17,3 @@ housenumber = int(input("What is your house number?"))
 streetname = input("What is your street name?")
 
 print(f'This is {name}. They are {age} years old and live at house number {housenumber} on {streetname}.')
-
-# this is a test
